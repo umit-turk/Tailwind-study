@@ -18,4 +18,7 @@
   a {
     @apply font-gemunu;
   }
+  .umit{
+    @apply col-span-2 hover:text-gega-melon duration-500
+  }
 }
